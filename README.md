@@ -5,8 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on a Application Tracking System
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on building my own Neural Network from scratch 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love cats 
   
